@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey troll",
   "author": "Kyran Elmes",
-  "model": "hey_troll.tflite",
+  "model": "./hey_troll.tflite",
   "trained_languages": ["en"],
   "version": 1,
   "micro": {
